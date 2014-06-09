@@ -2,7 +2,7 @@
 
 Enterprise Data & Analytics (EDA) provides leadership and support to all UW academic and administrative units in delivering institutional data for decision making. This includes managing the Enterprise Data Warehouse (EDW), Business Intelligence (BI) systems, and data management solutions that support effective, secure access to, and use of, institutional data. Enterprise business intelligence and analytical tools, data and training are available through the Decision Support website—the single point of access to information for users and developers of EDW data and tools.
 
-## Key Areas of Responsibility
+## Key Areas of Responsibility and Ownership
 
 EDA is focusing on efforts to deliver high-value enhancements by transforming raw data into valuable information used to improve efficiency and guide strategic decision making. Initiatives include:
 
